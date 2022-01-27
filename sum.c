@@ -5,7 +5,7 @@ int main(){
     int c;
     c=a+b;
 
-    printf("The value of sum is  : %d ",c );
+    printf("The value of sum is already known : %d ",c );
 
     return 0;
 }
